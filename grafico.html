@@ -1,0 +1,73 @@
+---
+layout: grafico
+---
+<script src="//d3plus.org/js/d3.js"></script>
+<script src="//d3plus.org/js/d3plus.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
+      <style>
+
+        body {
+          margin: 0;
+          overflow: hidden;
+        }
+
+      </style>
+
+    </head>
+
+    <body>
+        <div id="grafico"></div>
+    </body>
+
+    <script>
+
+    //baseado em https://d3plus.org/examples/advanced/a9a9ada6101818be4fdc/
+
+    var json = (function () {
+            var json = null;
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': 'https://voltdatalab.github.io/wifi-sp/output.json',
+                'dataType': "json",
+                'success': function (data) {
+                    json = data;
+                }
+            });
+            return json;
+        })
+        ();
+
+
+      var visualization = d3plus.viz()
+        .container("#grafico")
+        .data(json)
+        .type("tree_map")
+        //.type({"mode": "dice"})
+        .id({
+          "value": ["zona","bairro","praca"]
+        })
+        .title({
+        "value": "Capacidade de praças de wifi público em São Paulo",
+        "total": { "font": { "size": 16,}, "value": true },
+        "sub": { "font": { "size": 20 }} })
+      .legend({"order": { "sort": "asc", "value": "capacidade" },
+     "size": 20,
+     "filters": "true",
+     "value": "capacidade",
+      "font": {
+      "size": "10px"
+        }})
+        .size("capacidade")
+        .format("pt_BR")
+        .margin( "10px 10px" )
+        .footer({
+          "link": "",
+          "value": "Fonte: Prefeitura de São Paulo"
+        })
+        .tooltip({"value": "model","background":"#f4f4f4"})
+      .labels({"align": "center", "valign": "top", "padding": 50, "resize": false})
+      .tooltip(["zona", "bairro", "praca", "capacidade"])
+      .draw();
+    </script>

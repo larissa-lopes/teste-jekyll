@@ -1,0 +1,1072 @@
+[{
+	"instalacao": "12/12/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Campo Limpo",
+	"latitude": "-23.640511",
+	"longitude": "-46.749340",
+	"praca": "PRAÇA LUISA P DOS SANTOS (PRAÇA ARARIBA)",
+	"endereco": "Praça Luísa Pêra dos Santos - Parque Arariba  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "12/12/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaquera",
+	"latitude": "-23.5375969",
+	"longitude": "-46.454965",
+	"praca": "PRAÇA NA RUA GREGÓRIO RAMALHO",
+	"endereco": "Rua Gregório Ramalho  239  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "12/12/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.538948",
+	"longitude": "-46.6496885",
+	"praca": "LARGO SANTA CECILIA",
+	"endereco": "Largo Santa Cecília",
+	"capacidade": "75"
+},{
+	"instalacao": "09/12/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5414878",
+	"longitude": "-46.6469944",
+	"praca": "LARGO DO AROUCHE",
+	"endereco": "Largo do Arouche",
+	"capacidade": "250"
+},{
+	"instalacao": "09/12/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Freguesia/Brasilândia",
+	"latitude": "-23.5017066",
+	"longitude": "-46.6985106",
+	"praca": "LARGO DA MATRIZ",
+	"endereco": "Largo da Matriz de Nossa Senhora do Ó  Freguesia do Ó  São Paulo  Brasil",
+	"capacidade": "125"
+},{
+	"instalacao": "09/12/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Penha",
+	"latitude": "-23.5366955",
+	"longitude": "-46.5258377",
+	"praca": "PRAÇA DA CONQUISTA (PRAÇA VEREADOR JOÃO APARECIDO DE PAULA)",
+	"endereco": "Rua Dona Matilde  479  Vila Matilde  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "08/12/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaquera",
+	"latitude": "-23.5357169",
+	"longitude": "-46.4679491",
+	"praca": "PRAÇA PROFESSORAS (NA AV. DAS ALAMANDAS)",
+	"endereco": "Avenida das Alamandas  12  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "19/11/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Pinheiros",
+	"latitude": "-23.5541153",
+	"longitude": "-46.7028779",
+	"praca": "PRAÇA DO PÔR-DO-SOL",
+	"endereco": "Av. Diógenes Ribeiro de Lima  110 - Alto de Pinheiros São Paulo  05458-000",
+	"capacidade": "100"
+},{
+	"instalacao": "18/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Cidade Tiradentes",
+	"latitude": "-23.583103",
+	"longitude": "-46.409183",
+	"praca": "PRAÇA DO TERMINAL METALÚRGICOS",
+	"endereco": "Avenida dos Metalúrgicos  sn  Cidade Tiradentes  São Paulo  Brasil",
+	"capacidade": "150"
+},{
+	"instalacao": "18/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Vila Prudente",
+	"latitude": "-23.5815457",
+	"longitude": "-46.5853654",
+	"praca": "PRAÇA PADRE DAMIÃO",
+	"endereco": "Praça Padre Damião - Vila Prudente?  São Paulo - SP  03126-050",
+	"capacidade": "100"
+},{
+	"instalacao": "11/03/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Vila Mariana",
+	"latitude": "-23.606806",
+	"longitude": "-46.640722",
+	"praca": "PRAÇA SANTA RITA DE CÁSSIA",
+	"endereco": "Praça Santa Rita de Cássia  Mirandópolis  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "18/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Aricanduva/Formosa/Carrão",
+	"latitude": "-23.5484053",
+	"longitude": "-46.5371547",
+	"praca": "PRAÇA VICENTE FALCETTA",
+	"endereco": "Praça Vicente Falcetta",
+	"capacidade": "50"
+},{
+	"instalacao": "14/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Ermelino Matarazzo",
+	"latitude": "-23.507780",
+	"longitude": "-46.489798",
+	"praca": "PRAÇA GIOVANI FANI",
+	"endereco": "Praça Giovanni Fiani  Vila Ponte Rasa  São Paulo - SP  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "13/11/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Capela do Socorro",
+	"latitude": "-23.696913",
+	"longitude": "-46.715033",
+	"praca": "PRAIA DO SOL",
+	"endereco": "Av. Atlântica 3456",
+	"capacidade": "75"
+},{
+	"instalacao": "12/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Guaianases",
+	"latitude": "-23.5437824",
+	"longitude": "-46.4104721",
+	"praca": "PRAÇA JESUS TEIXEIRA DA COSTA",
+	"endereco": "Rua Caranaíba  148 - Guaianases  São Paulo - SP  Brasil (PS: a praça na verdade são vários espaços públicos entre essas ruas)",
+	"capacidade": "100"
+},{
+	"instalacao": "12/11/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.549606",
+	"longitude": "-46.636063",
+	"praca": "LARGO SÃO FRANCISCO",
+	"endereco": "Largo São Francisco",
+	"capacidade": "100"
+},{
+	"instalacao": "12/11/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Ermelino Matarazzo",
+	"latitude": "-23.5313033",
+	"longitude": "-46.5021446",
+	"praca": "PRAÇA DA ESTAÇÃO VILA MARA",
+	"endereco": "Praça da Estação Vila Mara",
+	"capacidade": "50"
+},{
+	"instalacao": "11/11/2014",
+	"zona": "ZONA SUL",
+	"bairro": "M'Boi Mirim",
+	"latitude": "-23.722375",
+	"longitude": "-46.785254",
+	"praca": "POLO CULTURAL DO JARDIM ÂNGELA",
+	"endereco": "Estrada M'Boi Mirim  5780",
+	"capacidade": "50"
+},{
+	"instalacao": "29/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.5260494",
+	"longitude": "-46.62174",
+	"praca": "PRAÇA KANTUTA",
+	"endereco": "Praça Kantuta",
+	"capacidade": "125"
+},{
+	"instalacao": "27/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.5450799",
+	"longitude": "-46.573661",
+	"praca": "PRAÇA SILVIO ROMERO",
+	"endereco": "Praça Silvio Romero",
+	"capacidade": "100"
+},{
+	"instalacao": "27/10/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Capela do Socorro",
+	"latitude": "-23.720345",
+	"longitude": "-46.689331",
+	"praca": "PRAÇA JOÃO BEIÇOLA",
+	"endereco": "Av. Lourenço Cabreira  154 - Cidade Dutra São Paulo  04812-010",
+	"capacidade": "75"
+},{
+	"instalacao": "09/03/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Lapa",
+	"latitude": "-23.5265451",
+	"longitude": "-46.6775602",
+	"praca": "PRAÇA CONDE FRANCISCO MATARAZZO",
+	"endereco": "Praça Conde Francisco Matarazzo Junior  Água Branca  São Paulo - SP  Brasil ?",
+	"capacidade": "50"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Cidade Tiradentes",
+	"latitude": "-23.6003951",
+	"longitude": "-46.3998072",
+	"praca": "PRAÇA DO 65 / POMBAS URBANAS",
+	"endereco": "Avenida dos Metalúrgicos  2249",
+	"capacidade": "150"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaim Paulista",
+	"latitude": "-23.5000861",
+	"longitude": "-46.3759471",
+	"praca": "PARQUE SANTA AMÉLIA",
+	"endereco": "Rua Rio Contagem  72",
+	"capacidade": "100"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.569114",
+	"longitude": "-46.567071",
+	"praca": "PRAÇA SÃO LUIS DO CURU",
+	"endereco": "Rua Capitão Lorena  84",
+	"capacidade": "50"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "São Mateus",
+	"latitude": "-23.6130147",
+	"longitude": "-46.4234887",
+	"praca": "PRAÇA OSLEI FRANCISCO BORGES",
+	"endereco": "Rua Tauro  58 - Recanto Verde do Sol  São Paulo - SP  08381-770  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.5523131",
+	"longitude": "-46.5998163",
+	"praca": "PRAÇA CIRO PONTES / AO LADO DO SENAI",
+	"endereco": "Praça Ciro Pontes",
+	"capacidade": "50"
+},{
+	"instalacao": "14/10/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Guaianases",
+	"latitude": "-23.5353685",
+	"longitude": "-46.4136043",
+	"praca": "PRAÇA CECÍLIA MARQUES DE ARAÚJO",
+	"endereco": "Rua Gonçalves de Oliveira  13",
+	"capacidade": "50"
+},{
+	"instalacao": "13/10/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5458347",
+	"longitude": "-46.6379825",
+	"praca": "PRAÇA RAMOS DE AZEVEDO",
+	"endereco": "Praça Ramos de Azevedo",
+	"capacidade": "100"
+},{
+	"instalacao": "13/10/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5476086",
+	"longitude": "-46.6364474",
+	"praca": "PRAÇA DO PATRIARCA",
+	"endereco": "Praça do Patriarca",
+	"capacidade": "100"
+},{
+	"instalacao": "07/10/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Pinheiros",
+	"latitude": "-23.613237",
+	"longitude": "-46.6925693",
+	"praca": "PRAÇA ARLINDO ROSSI",
+	"endereco": "R. Araçaíba  38 - Brooklin  Itaim Bibi São Paulo  04568-030",
+	"capacidade": "100"
+},{
+	"instalacao": "06/10/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Campo Limpo",
+	"latitude": "-23.664020",
+	"longitude": "-46.773106",
+	"praca": "PARQUE SANTO DIAS",
+	"endereco": "Parque Santo Dias  Conjunto Habitacional Instituto Adventis  São Paulo  Brasil",
+	"capacidade": "125"
+},{
+	"instalacao": "07/03/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Santana/Tucuruvi",
+	"latitude": "-23.493981",
+	"longitude": "-46.613976",
+	"praca": "PARQUE DOMINGOS LUÍS",
+	"endereco": "Parque Domingos Luis  São Paulo  SP  Brasil",
+	"capacidade": "125"
+},{
+	"instalacao": "06/10/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Lapa",
+	"latitude": "-23.5518505",
+	"longitude": "-46.6760069",
+	"praca": "PRAÇA ZILDA NATEL",
+	"endereco": "Av. Dr. Arnaldo  1250 - Perdizes São Paulo  01255-000",
+	"capacidade": "50"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.5423468",
+	"longitude": "-46.6167342",
+	"praca": "LARGO DA CONCÓRDIA",
+	"endereco": "Largo da Concórdia",
+	"capacidade": "150"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Vila Prudente",
+	"latitude": "-23.585296",
+	"longitude": "-46.566802",
+	"praca": "PARQUE ECOLÓGICO DA VILA PRUDENTE",
+	"endereco": "Parque Ecológico Vila Prudente  São Paulo  SP  Brasil",
+	"capacidade": "125"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaquera",
+	"latitude": "-23.5534057",
+	"longitude": "-46.4439344",
+	"praca": "PARQUE RAUL SEIXAS",
+	"endereco": "Rua Murmúrios da Tarde  190  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaim Paulista",
+	"latitude": "-23.5068402",
+	"longitude": "-46.429165",
+	"praca": "PARQUE CHICO MENDES",
+	"endereco": "Parque Chico Mendes - Rua Cembira  Vila Curuçá  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Santo Amaro",
+	"latitude": "-23.661827",
+	"longitude": "-46.686424",
+	"praca": "PRAÇA TUNEY ARANTES",
+	"endereco": "Praça Tuney Arantes  Jardim Anhanguera  São Paulo - SP",
+	"capacidade": "50"
+},{
+	"instalacao": "25/09/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaim Paulista",
+	"latitude": "-23.501157",
+	"longitude": "-46.4225891",
+	"praca": "PRAÇA JAGUAMITANGA",
+	"endereco": "Rua Guaxima  163  Vila Curuçá  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "17/09/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5550055",
+	"longitude": "-46.635347",
+	"praca": "PRAÇA DA LIBERDADE",
+	"endereco": "Praça da Liberdade",
+	"capacidade": "250"
+},{
+	"instalacao": "17/09/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.549865",
+	"longitude": "-46.625393",
+	"praca": "PARQUE DOM PEDRO II",
+	"endereco": "Parque Dom Pedro II",
+	"capacidade": "250"
+},{
+	"instalacao": "17/09/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Vila Mariana",
+	"latitude": "-23.5659278",
+	"longitude": "-46.6395987",
+	"praca": "LARGO DONA ANA ROSA",
+	"endereco": "Rua Vergueiro  2.100  São Paulo  04106-090",
+	"capacidade": "75"
+},{
+	"instalacao": "12/02/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "São Mateus",
+	"latitude": "-23.612283",
+	"longitude": "-46.475584",
+	"praca": "PRAÇA FELISBERTO FERNANDES DA SILVA / LARGO SÃO MATEUS",
+	"endereco": "Rua Manuel André  88  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "17/09/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Santo Amaro",
+	"latitude": "-23.6254099",
+	"longitude": "-46.6634494",
+	"praca": "CDC CAMPO BELO",
+	"endereco": "Rua Sapoti  20",
+	"capacidade": "50"
+},{
+	"instalacao": "09/09/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Cidade Ademar",
+	"latitude": "-23.680806",
+	"longitude": "-46.638981",
+	"praca": "PRAÇA BACHAREL FERNANDO BRAGA PEREIRA DA ROCHA",
+	"endereco": "Praça Bacharel Fernando Braga Pereira da Rocha  04417-090 - Jardim Miriam  São Paulo",
+	"capacidade": "75"
+},{
+	"instalacao": "05/09/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Santo Amaro",
+	"latitude": "-23.651345",
+	"longitude": "-46.707425",
+	"praca": "PRAÇA FLORIANO PEIXOTO",
+	"endereco": "Praça Floriano Peixoto  Santo Amaro São Paulo - SP  04751-030",
+	"capacidade": "150"
+},{
+	"instalacao": "05/09/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Casa Verde/Cachoeirinha",
+	"latitude": "-23.4738711",
+	"longitude": "-46.6672241",
+	"praca": "LARGO DO JAPONES",
+	"endereco": "Largo do Japonês  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "29/08/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5725626",
+	"longitude": "-46.6288549",
+	"praca": "PARQUE DA ACLIMAÇÃO",
+	"endereco": "R. Muniz de Sousa  1119",
+	"capacidade": "150"
+},{
+	"instalacao": "29/08/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Perus",
+	"latitude": "-23.4094194",
+	"longitude": "-46.7578096",
+	"praca": "PRAÇA VIGÁRIO JOÃO G. DE LIMA (PRAÇA DO SAMBA)",
+	"endereco": "Praça Vigário João Gonçalves de Lima  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "29/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Mooca",
+	"latitude": "-23.5312773",
+	"longitude": "-46.6027808",
+	"praca": "PRAÇA GENERAL HUMBERTO DE SOUSA MELLO",
+	"endereco": "Rua Marcos Arruda  782",
+	"capacidade": "75"
+},{
+	"instalacao": "29/08/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5624259",
+	"longitude": "-46.6458824",
+	"praca": "PRAÇA DON ORIONE",
+	"endereco": "Viaduto Armando Puglisi",
+	"capacidade": "50"
+},{
+	"instalacao": "28/08/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Capela do Socorro",
+	"latitude": "-23.709470",
+	"longitude": "-46.698853",
+	"praca": "PRAÇA ESCOLAR",
+	"endereco": "Praça Escolar  Cidade Dutra  São Paulo - SP  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "27/08/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Casa Verde/Cachoeirinha",
+	"latitude": "-23.5056918",
+	"longitude": "-46.6729879",
+	"praca": "PRAÇA MARCO ANTONIO PRIMON MAESTRE",
+	"endereco": "Praça Marco Antônio Primon Maestre - Limão  São Paulo - SP  02710-030  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "12/02/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Aricanduva/Formosa/Carrão",
+	"latitude": "-23.5648793",
+	"longitude": "-46.5127128",
+	"praca": "PRAÇA SÃO JOÃO VICENZOTTO",
+	"endereco": "Praça São João Vicenzotto",
+	"capacidade": "50"
+},{
+	"instalacao": "22/08/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Lapa",
+	"latitude": "-23.5084351",
+	"longitude": "-46.7506635",
+	"praca": "PRAÇA GENERAL GUIMARÃES",
+	"endereco": "Praça General Guimarães  São Paulo - SP  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "19/08/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Santana/Tucuruvi",
+	"latitude": "-23.475144",
+	"longitude": "-46.6388556",
+	"praca": "PRAÇA VEREADOR ANTONIO SAMPAIO / AV ULTRAMARINO",
+	"endereco": "Avenida Ultramarino  262  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "18/08/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.546542",
+	"longitude": "-46.6413936",
+	"praca": "PRAÇA DOM JOSÉ GASPAR",
+	"endereco": "Rua Doutor Bráulio Gomes  49",
+	"capacidade": "150"
+},{
+	"instalacao": "14/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Penha",
+	"latitude": "-23.5141791",
+	"longitude": "-46.532708",
+	"praca": "PARQUE LINEAR TIQUATIRA",
+	"endereco": "Avenida Governador Carvalho Pinto  1759  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "12/08/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5436065",
+	"longitude": "-46.6418541",
+	"praca": "PRAÇA DA REPÚBLICA",
+	"endereco": "Praça da República",
+	"capacidade": "250"
+},{
+	"instalacao": "12/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaquera",
+	"latitude": "-23.5440745",
+	"longitude": "-46.4350873",
+	"praca": "PRAÇA BRASIL (PRAÇA MÃE MENININHA DO GANTOIS)",
+	"endereco": "Rua Cecília Porto  9  São Paulo  Brasil",
+	"capacidade": "150"
+},{
+	"instalacao": "12/08/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Ipiranga",
+	"latitude": "-23.633802",
+	"longitude": "-46.613742",
+	"praca": "LARGO SANTA ANGELA",
+	"endereco": "R. Sebastiano Mazzoni  193 - Vila Brasilina  Cursino São Paulo  04171-000",
+	"capacidade": "75"
+},{
+	"instalacao": "12/08/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5427245",
+	"longitude": "-46.6383969",
+	"praca": "LARGO DO PAISSANDÚ",
+	"endereco": "Largo do Paissandu",
+	"capacidade": "50"
+},{
+	"instalacao": "10/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Aricanduva/Formosa/Carrão",
+	"latitude": "-23.567338",
+	"longitude": "-46.5410358",
+	"praca": "PRAÇA SAMPAIO VIDAL",
+	"endereco": "Praça Doutor Sampaio Vidal",
+	"capacidade": "50"
+},{
+	"instalacao": "10/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "São Mateus",
+	"latitude": "-23.6218509",
+	"longitude": "-46.4680877",
+	"praca": "PRAÇA OSVALDO LUÍS DA SILVEIRA",
+	"endereco": "Rua Ponte do Guaré  88  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "12/01/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5516833",
+	"longitude": "-46.6349531",
+	"praca": "PRAÇA DA SÉ",
+	"endereco": "Praça da Sé",
+	"capacidade": "150"
+},{
+	"instalacao": "10/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "São Miguel",
+	"latitude": "-23.4793534",
+	"longitude": "-46.4191577",
+	"praca": "PRAÇA CRAVEIRO DO CAMPO",
+	"endereco": "Rua Kumaki Aoki  1074  Jardim Helena  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "10/08/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Penha",
+	"latitude": "-23.5256169",
+	"longitude": "-46.5491141",
+	"praca": "LARGO DO ROSÁRIO",
+	"endereco": "Largo do Rosário  15  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "09/08/2014",
+	"zona": "ZONA SUL",
+	"bairro": "M'Boi Mirim",
+	"latitude": "-23.721894",
+	"longitude": "-46.785230",
+	"praca": "PRAÇA DO LARGO DE PIRAPORINHA",
+	"endereco": "Estrada do M’Boi Mirim  1.000",
+	"capacidade": "75"
+},{
+	"instalacao": "23/07/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Freguesia/Brasilândia",
+	"latitude": "-23.450796",
+	"longitude": "-46.6880572",
+	"praca": "PRAÇA NA RUA DAS IBIRAIARAS",
+	"endereco": "Rua das Ibiraiaras  400",
+	"capacidade": "100"
+},{
+	"instalacao": "16/07/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Butantã",
+	"latitude": "-23.576291",
+	"longitude": "-46.73152",
+	"praca": "PRAÇA ELIS REGINA",
+	"endereco": "Praça Elis Regina",
+	"capacidade": "75"
+},{
+	"instalacao": "14/07/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Casa Verde/Cachoeirinha",
+	"latitude": "-23.4959579",
+	"longitude": "-46.6628014",
+	"praca": "TERMINAL CASA VERDE",
+	"endereco": "Rua Bahia Formosa  90  São Paulo",
+	"capacidade": "100"
+},{
+	"instalacao": "11/07/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Ipiranga",
+	"latitude": "-23.641644",
+	"longitude": "-46.596379",
+	"praca": "PRAÇA DIRCEU DE CASTRO FONTOURA",
+	"endereco": "Rua Amadeu Giusti  203-251 - Sacomã  São Paulo - SP  04182-080",
+	"capacidade": "75"
+},{
+	"instalacao": "30/06/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Butantã",
+	"latitude": "-23.5893879",
+	"longitude": "-46.7013233",
+	"praca": "PARQUE ALFREDO VOLPI",
+	"endereco": "Av. Eng. Oscar Americano  480 - Morumbi  São Paulo  05673-050",
+	"capacidade": "75"
+},{
+	"instalacao": "27/06/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5484314",
+	"longitude": "-46.6462197",
+	"praca": "PRAÇA ROOSEVELT",
+	"endereco": "Praça Roosevelt",
+	"capacidade": "250"
+},{
+	"instalacao": "26/06/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Vila Maria/Vila Guilherme",
+	"latitude": "-23.5075227",
+	"longitude": "-46.6010998",
+	"praca": "PRAÇA OSCAR DA SILVA",
+	"endereco": "Praça Oscar da Silva - Vila Guilherme  São Paulo - SP  02067-070  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "10/01/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5502757",
+	"longitude": "-46.6393536",
+	"praca": "PRAÇA DA BANDEIRA",
+	"endereco": "Praça da Bandeira",
+	"capacidade": "100"
+},{
+	"instalacao": "26/06/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Santana/Tucuruvi",
+	"latitude": "-23.4893517",
+	"longitude": "-46.6095508",
+	"praca": "PRAÇA NOSSA SENHORA DOS PRAZERES",
+	"endereco": "Praça Nossa Senhora dos Prazeres  Vila Dom Pedro II  São Paulo - SP  Brasil?",
+	"capacidade": "50"
+},{
+	"instalacao": "25/06/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Jaçanã/Tremembé",
+	"latitude": "-23.4673366",
+	"longitude": "-46.5863102",
+	"praca": "PRAÇA DOUTOR JOÃO BATISTA VASQUES",
+	"endereco": "Rua Benjamin Pereira  762  Jaçanã  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "24/06/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Jaçanã/Tremembé",
+	"latitude": "-23.4593185",
+	"longitude": "-46.6237557",
+	"praca": "PRAÇA MARIQUINHA SCIASCIA",
+	"endereco": "Praça Dona Mariquinha Sciascia  Tremembé  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "18/06/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5659755",
+	"longitude": "-46.6396097",
+	"praca": "CENTRO CULTURAL SÃO PAULO",
+	"endereco": "Rua Vergueiro  1000",
+	"capacidade": "250"
+},{
+	"instalacao": "29/05/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Jabaquara",
+	"latitude": "-23.638043",
+	"longitude": "-46.642778",
+	"praca": "PRAÇA ALFREDO EGYDIO DE SOUZA ARANHA (PARQUE LINA E PAULO RAIA)",
+	"endereco": "Praça Alfredo Egydio de Souza Aranha",
+	"capacidade": "75"
+},{
+	"instalacao": "26/05/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Vila Mariana",
+	"latitude": "-23.6037005",
+	"longitude": "-46.6613764",
+	"praca": "LARGO DE MOEMA",
+	"endereco": "Praça Nossa Senhora Aparecida - Indianópolis",
+	"capacidade": "125"
+},{
+	"instalacao": "21/05/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Jabaquara",
+	"latitude": "-23.662803",
+	"longitude": "-46.660051",
+	"praca": "PARQUE DO NABUCO",
+	"endereco": "Rua Juan de La Cruz  2510  São Paulo  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "15/05/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Campo Limpo",
+	"latitude": "-23.633992",
+	"longitude": "-46.775788",
+	"praca": "PRAÇA JOÃO TADEU PRIOLLI (PRAÇA DO CAMPO LIMPO)",
+	"endereco": "R. Paul Gauguin  21 - Campo Limpo São Paulo  05789-090 ?",
+	"capacidade": "150"
+},{
+	"instalacao": "12/05/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Sapopemba",
+	"latitude": "-23.5989888",
+	"longitude": "-46.5164477",
+	"praca": "PRAÇA TORQUATO PLAZA",
+	"endereco": "Praça Torquato Plaza  Jardim Grimaldi  São Paulo",
+	"capacidade": "50"
+},{
+	"instalacao": "11/05/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Butantã",
+	"latitude": "-23.6038933",
+	"longitude": "-46.7319971",
+	"praca": "PRAÇA ENG. NORIWUKI YAMAMOTO",
+	"endereco": "Praça Eng. Noriyuki Yamamoto - Jardim Colombo  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "10/01/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5439246",
+	"longitude": "-46.634179",
+	"praca": "LARGO SÃO BENTO",
+	"endereco": "Largo São Bento",
+	"capacidade": "100"
+},{
+	"instalacao": "09/05/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5453859",
+	"longitude": "-46.6495519",
+	"praca": "PRAÇA ROTARY",
+	"endereco": "Rua Major Sertório  561",
+	"capacidade": "100"
+},{
+	"instalacao": "09/05/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5642275",
+	"longitude": "-46.6201226",
+	"praca": "LARGO DO CAMBUCI",
+	"endereco": "Rua da Independência  94",
+	"capacidade": "50"
+},{
+	"instalacao": "03/05/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5424498",
+	"longitude": "-46.6303289",
+	"praca": "MERCADO MUNICIPAL",
+	"endereco": "Rua da Cantareira  206",
+	"capacidade": "250"
+},{
+	"instalacao": "03/05/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "Penha",
+	"latitude": "-23.546158",
+	"longitude": "-46.4827062",
+	"praca": "PRAÇA DILVA GOMES MARTINS (COHAB 1)",
+	"endereco": "Rua Padre Manuel Barreto  68  COHAB Padre Manoel da Nóbrega  São Paulo - SP  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "03/05/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5483793",
+	"longitude": "-46.6327699",
+	"praca": "PÁTEO DO COLÉGIO",
+	"endereco": "Páteo do Colégio",
+	"capacidade": "50"
+},{
+	"instalacao": "25/04/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Pinheiros",
+	"latitude": "-23.5591758",
+	"longitude": "-46.680409",
+	"praca": "PRAÇA BENEDITO CALIXTO",
+	"endereco": "R. Teodoro Sampaio  1118 - Jardim Paulista São Paulo  05406-050",
+	"capacidade": "250"
+},{
+	"instalacao": "11/04/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Capela do Socorro",
+	"latitude": "-23.735407",
+	"longitude": "-46.6920257",
+	"praca": "CALÇADÃO CULTURAL DO GRAJAÚ",
+	"endereco": "Rua Professor Oscar Barreto Filho  252  Parque América  SP  Brasil",
+	"capacidade": "150"
+},{
+	"instalacao": "08/04/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Lapa",
+	"latitude": "-23.546752",
+	"longitude": "-46.748761",
+	"praca": "PRAÇA GEN. PORTO CARREIRO",
+	"endereco": "Praça General Porto Carreiro - Jaguare  São Paulo - SP  05331-040  Brasil ?",
+	"capacidade": "75"
+},{
+	"instalacao": "01/12/2015",
+	"zona": "ZONA SUL",
+	"bairro": "Parelheiros",
+	"latitude": "-23.828284",
+	"longitude": "-46.731167",
+	"praca": "PRAÇA JÚLIO CÉSAR DE CAMPOS",
+	"endereco": "Estr. Eng. Marcilac  13 - Parelheiros São Paulo  04893-000",
+	"capacidade": "50"
+},{
+	"instalacao": "01/12/2015",
+	"zona": "ZONA NORTE",
+	"bairro": "Perus",
+	"latitude": "-23.428841",
+	"longitude": "-46.7947174",
+	"praca": "PRAÇA DA CULTURA",
+	"endereco": "Rua Alberto Gentili  431  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "03/09/2015",
+	"zona": "ZONA SUL",
+	"bairro": "Ipiranga",
+	"latitude": "-23.6225029",
+	"longitude": "-46.591599",
+	"praca": "CENTRO DE CONVIVÊNCIA EDUCATIVO E CULTURAL DE HELIÓPOLIS",
+	"endereco": "Estrada das Lágrimas  2385 - São João Clímaco  CEP: 04232-000 São Paulo/SP",
+	"capacidade": "125"
+},{
+	"instalacao": "03/09/2015",
+	"zona": "ZONA SUL",
+	"bairro": "Parelheiros",
+	"latitude": "-23.867125",
+	"longitude": "-46.652751",
+	"praca": "ALDEIA TENONDE-PORÃ",
+	"endereco": "Estrada João Lang  s/nº",
+	"capacidade": "50"
+},{
+	"instalacao": "02/09/2015",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5333321",
+	"longitude": "-46.6351557",
+	"praca": "PARQUE DA LUZ",
+	"endereco": "Praça da Luz  s/n",
+	"capacidade": "250"
+},{
+	"instalacao": "02/09/2015",
+	"zona": "ZONA LESTE",
+	"bairro": "São Miguel",
+	"latitude": "-23.4983387",
+	"longitude": "-46.4522254",
+	"praca": "PRAÇA FORTUNATO DA SILVEIRA / UNICSUL",
+	"endereco": "Rua Vilma  222 - Vila Jacui",
+	"capacidade": "100"
+},{
+	"instalacao": "02/09/2015",
+	"zona": "ZONA LESTE",
+	"bairro": "Itaquera",
+	"latitude": "-23.565147",
+	"longitude": "-46.47036",
+	"praca": "PRAÇA AUGUSTO DOMINGUES ALVES MAIA",
+	"endereco": "Rua Arcádia Paulistana  375  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "02/04/2015",
+	"zona": "ZONA OESTE",
+	"bairro": "Pinheiros",
+	"latitude": "-23.5663501",
+	"longitude": "-46.6945731",
+	"praca": "LARGO DA BATATA",
+	"endereco": "Avenida Brigadeiro Faria Lima  860  São Paulo  Brasil",
+	"capacidade": "125"
+},{
+	"instalacao": "27/03/2015",
+	"zona": "ZONA SUL",
+	"bairro": "Parelheiros",
+	"latitude": "-23.880290",
+	"longitude": "-46.741991",
+	"praca": "PRAÇA JOÃO ADÃO E PRAÇA JACÓ REIMBERG FILHO",
+	"endereco": "Estrada Eng. Marsilac  s/n  Parelheiros São Paulo  04893-040 ?",
+	"capacidade": "50"
+},{
+	"instalacao": "26/02/2015",
+	"zona": "ZONA NORTE",
+	"bairro": "Sé",
+	"latitude": "-23.5213307",
+	"longitude": "-46.6304911",
+	"praca": "PARQUE TIETÊ",
+	"endereco": "Av. santos dumont 843 - Bom Retiro",
+	"capacidade": "250"
+},{
+	"instalacao": "07/04/2014",
+	"zona": "ZONA LESTE",
+	"bairro": "São Miguel",
+	"latitude": "-23.4919791",
+	"longitude": "-46.4458079",
+	"praca": "PRAÇA PADRE ALEIXO (DO FORRÓ)",
+	"endereco": "Praça Padre Aleixo Monteiro Mafra  São Miguel Paulista  São Paulo  Brasil",
+	"capacidade": "150"
+},{
+	"instalacao": "24/02/2015",
+	"zona": "ZONA NORTE",
+	"bairro": "Vila Maria/Vila Guilherme",
+	"latitude": "-23.489451",
+	"longitude": "-46.574074",
+	"praca": "PRAÇA LOURENÇO DE BELLIS",
+	"endereco": "Av. João Simão de Castro  252 - Vila Medeiros São Paulo  02141-000",
+	"capacidade": "50"
+},{
+	"instalacao": "03/02/2015",
+	"zona": "ZONA SUL",
+	"bairro": "Campo Limpo",
+	"latitude": "-23.6166096",
+	"longitude": "-46.7268901",
+	"praca": "CAMPO DO PALMEIRINHA - PARAISÓPOLIS",
+	"endereco": "R. Melchior Giola  157 - Paraisópolis  Vila Andrade São Paulo  05664-000",
+	"capacidade": "150"
+},{
+	"instalacao": "03/02/2015",
+	"zona": "ZONA NORTE",
+	"bairro": "Vila Maria/Vila Guilherme",
+	"latitude": "-23.517556",
+	"longitude": "-46.568201",
+	"praca": "PRAÇA NOVO MUNDO",
+	"endereco": "Praça Novo Mundo - Parque Novo Mundo  São Paulo - SP  Brasil",
+	"capacidade": "100"
+},{
+	"instalacao": "19/12/2014",
+	"zona": "CENTRO",
+	"bairro": "Sé",
+	"latitude": "-23.5616596",
+	"longitude": "-46.6578237",
+	"praca": "MASP",
+	"endereco": "R. Peixoto Gomide  949",
+	"capacidade": "250"
+},{
+	"instalacao": "29/01/2015",
+	"zona": "ZONA NORTE",
+	"bairro": "Pirituba",
+	"latitude": "-23.4769068",
+	"longitude": "-46.7218404",
+	"praca": "PRAÇA JOÃO BOLDO",
+	"endereco": "Rua Comendador Feiz Zarzur  146  São Paulo  Brasil",
+	"capacidade": "75"
+},{
+	"instalacao": "16/12/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Butantã",
+	"latitude": "-23.5736076",
+	"longitude": "-46.7607585",
+	"praca": "PRAÇA WILSON MOREIRA DA COSTA",
+	"endereco": "R. Mílton Soares  66 - Rio Pequeno São Paulo  05382-010",
+	"capacidade": "75"
+},{
+	"instalacao": "16/12/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Butantã",
+	"latitude": "-23.5884629",
+	"longitude": "-46.7558639",
+	"praca": "PARQUE RAPOSO TAVARES",
+	"endereco": "Parque Raposo Tavares - São Paulo - SP  Brasil ?",
+	"capacidade": "75"
+},{
+	"instalacao": "16/12/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Cidade Ademar",
+	"latitude": "-23.695503",
+	"longitude": "-46.666549",
+	"praca": "PRAÇA ALEXANDRE FRANCISCO REBOUÇAS",
+	"endereco": "Praça Alexandre Francisco Rebouças  Jardim Pedreira  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "15/12/2014",
+	"zona": "ZONA NORTE",
+	"bairro": "Pirituba",
+	"latitude": "-23.475522",
+	"longitude": "-46.756741",
+	"praca": "PRAÇA 14º ÁREA / RUA CALDAS NOVAS / RUA DOZE",
+	"endereco": "Rua Caldas Novas  93  São Paulo  Brasil",
+	"capacidade": "50"
+},{
+	"instalacao": "12/12/2014",
+	"zona": "ZONA SUL",
+	"bairro": "Ipiranga",
+	"latitude": "-23.586153",
+	"longitude": "-46.609621",
+	"praca": "PARQUE DA INDEPENDÊNCIA",
+	"endereco": "Av. Nazareth  s/nº - Ipiranga",
+	"capacidade": "250"
+},{
+	"instalacao": "11/03/2014",
+	"zona": "ZONA SUL",
+	"bairro": "M'Boi Mirim",
+	"latitude": "-23.652571",
+	"longitude": "-46.738185",
+	"praca": "PRAÇA DO FEIRÃO SÃO LUIS",
+	"endereco": "R. Arraial dos Couros  14 - Jardim São Luís São Paulo  05843-140",
+	"capacidade": "75"
+},{
+	"instalacao": "10/01/2014",
+	"zona": "ZONA OESTE",
+	"bairro": "Lapa",
+	"latitude": "-23.5253919",
+	"longitude": "-46.6897256",
+	"praca": "PRAÇA CORNÉLIA",
+	"endereco": "R. Crasso  289 - Lapa São Paulo  05043-010",
+	"capacidade": "75"
+}]
